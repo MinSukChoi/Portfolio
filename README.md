@@ -7,30 +7,39 @@
 - 삼성전자 무선사업부 재직 (2016년 ~ 현재)
 
 ## 프로젝트
-### 💤 삼성헬스 - 수면 트래킹 서비스
-##### 역할 : Android 개발
+### 🏃 삼성 피트니스
+> 책임 : Technical Lead 및 S/W Architect
+> 
+> 기간 : '25
 
----
+### 💓 센서 트래킹 서비스 - 삼성헬스
+> 책임 : Technical Lead
+> 
+> 기간 : '22~'24
 
-
-
-### 💓 삼성헬스 - 센서 트래킹 서비스
-##### 역할 : Technical Lead
-### 삼성헬스 - 웨어러블 프레임워크
-> 역할 : Android 개발
-> 기간 : '16~'17
-### 🏢 기업 건강 서비스(Veo Sens)
-> 역할 : Android 개발 및 Frontend 개발
-> 기간 : '18
 ### 🤝 Quality Process
-> 역할 : Technical Lead
-### 🏃 삼성피트니스
-> 역할 : Technical Lead 및 S/W Architect
-클린 아키텍처
+> 책임 : Technical Lead
+> 
+> 기간 : '22~'23
+
+### 💤 수면 트래킹 서비스 - 삼성헬스
+> 책임 : Android 개발
+> 
+> 기간 : '20~'21
+
 ### 🎥 가짜 영상 판별기
-> 역할 : Backend 개발
+> 책임 : Backend 개발
+> 
 > 기간 : '19
 
+### 🏢 기업 건강 서비스 - Veo Sens
+> 책임 : Android 개발 및 Frontend 개발
+> 
+> 기간 : '17~'18
 
+### 웨어러블 프레임워크 - 삼성헬스
+> 책임 : Android 개발
+> 
+> 기간 : '16
 
 ## 💪 강점
