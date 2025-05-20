@@ -1,11 +1,18 @@
+# 목차
+- [소개](https://github.com/MinSukChoi/Portfolio?tab=readme-ov-file#-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B5%9C%EB%AF%BC%EC%84%9D%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4)
+- [학력 및 경력](https://github.com/MinSukChoi/Portfolio?tab=readme-ov-file#-%ED%95%99%EB%A0%A5-%EB%B0%8F-%EA%B2%BD%EB%A0%A5)
+- [보유 기술](https://github.com/MinSukChoi/Portfolio?tab=readme-ov-file#%EF%B8%8F-%EB%B3%B4%EC%9C%A0-%EA%B8%B0%EC%88%A0)
+- [프로젝트](https://github.com/MinSukChoi/Portfolio?tab=readme-ov-file#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+- [강점](https://github.com/MinSukChoi/Portfolio?tab=readme-ov-file#-%EA%B0%95%EC%A0%90)
+
+
+
 # 🫅 개발자 최민석을 소개합니다.
 
 안녕하세요? 저는 10년차 서비스 개발자입니다.
 
 중학생 때 우연히 접하게 된 C언어로, 코딩에 관심이 생겼습니다. 그 이후, 컴퓨터 공학과에 진학하고 S/W 개발병를 거치고, 다양한 프로젝트를 수행하며 서비스 개발자로써 기초를 탄탄히 했습니다.
 서비스 개발자로의 커리어를 지속적으로 발전시켜, 지금은 삼성전자 무선(MX)사업부에서 Staff Engineer로 일하고 있습니다.
-
-저는 사용자에게 좋은 서비스를 제공하는 것에 큰 보람을 느낍니다. 사용자들에게 제가 만든 서비스가 도움이 되고, 행복감을 주는 것이 제가 서비스 개발자로 일을 계속할 수 있는 원동력입니다. 
 
 대표적으로 참여한 프로젝트로는 삼성헬스가 있습니다. 삼성헬스를 개발하며 전 세계 사용자들이 제 서비스로 건강이라는 큰 가치를 전달하면서, 서비스 개발자로써 자부심을 느낍니다.
 
